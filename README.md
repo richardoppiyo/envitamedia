@@ -1,62 +1,48 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Space-Travelers
 
-# Project Name
+Web application for a company that provides commercial and scientific space travel services. 
 
-> Description the project.
+The application will allow users to book rockets and join selected space missions.
 
+
+
+## Screenshot
+![image1.png](./src/images/1.png)
+![image2.png](./src/images/2.png)
+![image3.png](./src/images/3.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html
+- Css
+- JavaScript
+- React
+ 
 
-## Live Demo (if available)
+## Getting Started 
 
-[Live Demo Link](https://livedemo.com)
+- Run git clone on this project at the desired directory:
+     ```
+    git clone https://github.com/richardoppiyo/envitamedia.git
+     ```
+- Run `npm install` to install the necessary packages to run locally.
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- After installing, run `npm start` and your default browser will open the webpage. 
 
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
 ## Authors
 
-👤 **Author1**
+👤 **Richard Opiyo**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+- GitHub: [@richaroppiyo](https://github.com/richardoppiyo)
+- Twitter: [@richard_oppiyo](https://twitter.com/blessed_ricky)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/richardoppiyo/)
 
 ## Show your support
 
@@ -64,8 +50,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
+- Hat tip to anyone who Inspired
 - etc
 
 ## 📝 License
