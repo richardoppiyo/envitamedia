@@ -1,11 +1,21 @@
 import React from 'react';
+import './landing.css';
+import LandingImg from './Landing.svg';
 
 const Landing = () => (
-  <div>
-    <h1>Imagine if snapchat had events</h1>
-    <p>Easily host and share events with your friends across any socila media.</p>
+  <div className="home">
+    <h1>
+      Imagine if
+      {' '}
+      <span className="spannedh1">Snapchat</span>
+      {' '}
+      had events.
+    </h1>
+    <p className="homep1">Easily host and share events with your friends across any socila media.</p>
     <div>
-      <h2>Image here</h2>
+      <img className="landingimage" src={LandingImg} alt="img" />
+      {/* <LandingImg /> */}
+      {/* <h2>Image here</h2>
       <div>
         <h4>Movie Night</h4>
         <p>
@@ -23,9 +33,9 @@ const Landing = () => (
         <li><p>18 August 6PM</p></li>
         <li><p>Street Name</p></li>
         <li><p>Links</p></li>
-      </ul>
+      </ul> */}
     </div>
-    <button type="submit">Create my events</button>
+    <button className="homebtn" type="submit"><span>Create my events</span></button>
   </div>
 );
 
