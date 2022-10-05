@@ -14,7 +14,7 @@ const Create = () => {
         <Button className="createbacktn" type="button" onClick={() => navigate('/')}>
           <span>Back</span>
         </Button>
-        <Button className="createnextbtn" type="button" onClick={() => navigate('/events')}>
+        <Button className="createnextbtn" type="button" onClick={() => navigate('/event')}>
           <span>Next</span>
         </Button>
       </div>
