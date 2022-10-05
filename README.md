@@ -1,10 +1,6 @@
-# Space-Travelers
+# EnvitaMedia
 
-Web application for a company that provides commercial and scientific space travel services. 
-
-The application will allow users to book rockets and join selected space missions.
-
-
+Envita Makes it possible for watching videos on Online platforms. See what we can do! 
 
 ## Screenshot
 ![image1.png](./src/images/1.png)
